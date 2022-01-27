@@ -1,4 +1,4 @@
-# REGEX SOFTWARE INTERSHIP PROJECT
+# REGEX SOFTWARE INTERNSHIP PROJECT
 
 ## Project Name- Twitter Clone App
 
@@ -9,9 +9,9 @@
    - JavaScript
 
 ## Please watch this project demo and explanation video :
-- Click Above Thumbnail
-[![Basic-Banking-App](https://img.youtube.com/vi/8RL1Ikym15k/0.jpg)](https://www.youtube.com/watch?v=8RL1Ikym15k)
 
+[![Basic-Banking-App](https://img.youtube.com/vi/8RL1Ikym15k/0.jpg)](https://www.youtube.com/watch?v=8RL1Ikym15k)
+- Click Above Thumbnail
 
 ## About:
 - This is final project allocated by REGex, where i have built some twitter
