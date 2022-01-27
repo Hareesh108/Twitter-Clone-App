@@ -14,11 +14,11 @@
 
 
 ## About:
-• This is final project allocated by REGex, where i have built some twitter
+- This is final project allocated by REGex, where i have built some twitter
 curving features and used react-twitter-embed library for more features
 like Timeline, Share,Tweet etc.
-• Worked with React, JavaScript, Firebase etc. to build end to end solution for project.
-• This project deploy using Firebase database
+- Worked with React, JavaScript, Firebase etc. to build end to end solution for project.
+- This project deploy using Firebase database
 
 ## Below you will find sample images :)
 
