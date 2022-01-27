@@ -1,4 +1,53 @@
+# REGEX SOFTWARE INTERSHIP PROJECT
+
+## Project Name- Twitter Clone App
+
+## Resources used:
+   - React.js
+   - HTML
+   - CSS
+   - JavaScript
+
+## Please watch this project demo and explanation video :
+- Click Above Thumbnail
+[![Basic-Banking-App](https://img.youtube.com/vi/8RL1Ikym15k/0.jpg)](https://www.youtube.com/watch?v=8RL1Ikym15k)
+
+
+## Problem Statement/Opportunity :
+- Create a simple dynamic website which has the following specs.
+- Start with creating a dummy data in database for upto 10 customers. Database options: Mysql, Mongo, Postgres, etc. Customers table will have basic fields such as name, email, current balance etc. Transfers table will record all transfers happened.
+- Flow: Home Page > View all Customers > Select and View one Customer > Transfer Money > Select customer to transfer to > View all Customers.
+- No Login Page. No User Creation. Only transfer of money between multiple users.
+
+## Below you will find sample images :)
+
+![](images/0.png)
+
+
+### OVERVIEW
+
+![](images/1.png)
+
+![](images/2.png)
+
+
+### CODE
+
+![](images/3.png)
+
+
+![](images/4.png)
+
+
+![](images/5.png)
+
+![](images/6.png)
+
+![](images/7.png)
+
+
 # Getting Started with Create React App
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -68,3 +117,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+### THANK YOU SO MUCH
+
+![](images/8.png)
