@@ -13,11 +13,12 @@
 [![Basic-Banking-App](https://img.youtube.com/vi/8RL1Ikym15k/0.jpg)](https://www.youtube.com/watch?v=8RL1Ikym15k)
 
 
-## Problem Statement/Opportunity :
-- Create a simple dynamic website which has the following specs.
-- Start with creating a dummy data in database for upto 10 customers. Database options: Mysql, Mongo, Postgres, etc. Customers table will have basic fields such as name, email, current balance etc. Transfers table will record all transfers happened.
-- Flow: Home Page > View all Customers > Select and View one Customer > Transfer Money > Select customer to transfer to > View all Customers.
-- No Login Page. No User Creation. Only transfer of money between multiple users.
+## About:
+• This is final project allocated by REGex, where i have built some twitter
+curving features and used react-twitter-embed library for more features
+like Timeline, Share,Tweet etc.
+• Worked with React, JavaScript, Firebase etc. to build end to end solution for project.
+• This project deploy using Firebase database
 
 ## Below you will find sample images :)
 
